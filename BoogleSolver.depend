@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1545889964 source:d:\desktop\school\codeblocks\booglesolver\main.cpp
+	<iostream>
+	"Dictionary.h"
+	"BoggleSolver.h"
+	<string>
+
+1526531605 source:d:\desktop\school\codeblocks\booglesolver\src\dictionary.cpp
+	"Dictionary.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1526673221 d:\desktop\school\codeblocks\booglesolver\include\dictionary.h
+	<iostream>
+	<fstream>
+	<string>
+
+1526674512 source:d:\desktop\school\codeblocks\booglesolver\src\bogglesolver.cpp
+	"BoggleSolver.h"
+	"Dictionary.h"
+	<string>
+	<iomanip>
+	<fstream>
+
+1526673802 d:\desktop\school\codeblocks\booglesolver\include\bogglesolver.h
+	<iostream>
+	<fstream>
+	<string>
+	"Dictionary.h"
+	<stack>
+

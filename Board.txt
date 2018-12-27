@@ -1,0 +1,75 @@
+Enter Board
+-----------
+Row 0: a e s k 
+Row 1: r e w d 
+Row 2: q w e e 
+Row 3: b e a y 
+
+Show Board (y/n)?: n
+are
+ares
+awe
+awed
+awee
+awes
+aye
+bee
+dee
+deer
+dees
+dew
+dews
+dey
+ear
+era
+ere
+ewe
+ewer
+ewes
+eye
+eyed
+ree
+reed
+reeds
+rees
+res
+resee
+reseed
+resew
+resewed
+rewed
+sea
+sear
+see
+seed
+seer
+ser
+sera
+sere
+sew
+sewed
+sewer
+swear
+swede
+sweer
+wae
+way
+wear
+web
+wed
+weds
+wee
+weed
+weeds
+weer
+wees
+weewee
+weeweed
+weewees
+were
+yaw
+yawed
+yea
+yew
+yews
+66 words.

@@ -1,0 +1,12 @@
+Dictionary
+----------------
+addWord- Add word to a Dictionary
+isWord- Check if it is a word.
+isPrefix - Check if it is a prefix.
+wordCount - return total number of Words.
+printWords - Print all the word that contain the prefix.
+
+BoggleSolver
+-----------------
+BoggleSolver - Defult constructor does nothing.
+BoggleSolver(Dictionary) - Accept dictionary as argument, Should run the entire Boggle solving process by it self in the constructor.
